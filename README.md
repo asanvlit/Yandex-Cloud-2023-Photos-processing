@@ -1,0 +1,1 @@
+# Yandex-Cloud-2023-Photos-processing
