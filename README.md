@@ -8,7 +8,7 @@
 ## Инструкция к запуску
 * В файле **terraform.tfvars** необходимо подставить значения следующих переменных:
   * `tgkey` - Telegram-ключ для бота;
-  * `bot_name` - Название Telegram-бота;
+  * `bot_name` - Username Telegram-бота. Например, "vvot32_2023_bot";
   * `cloud_id` - ID Yandex-облака;
   * `cloud_sa_key` - Файл с ключом сервисного аккаунта Yandex Cloud. Например, "key.json";
   * `folder_id` - ID каталога Yandex Cloud.
